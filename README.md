@@ -1,7 +1,7 @@
 # CORS_Testing_Script
 cors_testing_script is a simple script written with bash scripting language,
-the perpos of this script, is to try to test if a specifec page are probably
-vulnerabil to CORS Misconfiguration by Comparing the ACAO "Access-Control-Allow-Origin"
+the purpose of this script, is to try to test if a specific page are probably
+vulnerable to CORS Misconfiguration by Comparing the ACAO "Access-Control-Allow-Origin"
 header value with Origin header value, and make sure that the ACAC
 "Access-Control-Allow-Credentials" header value is "true".
 
